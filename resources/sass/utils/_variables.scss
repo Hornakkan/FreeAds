@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Londrina+Shadow&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+$fontfamily: 'Roboto', 'Londrina+Shadow';
+// $fontfamily: 'Londrina Shadow', 'Roboto';
+
+$bg-error: #f3f4f4;
+$bgcolor: white;
+$fontcolor: white;
+// $bordercolor: #ffc720;
+// $yellowbg: #ffca2c;
+$tatooinesand: #AD7D3F;
+$bordercolor: #D4B483;
+$yellowbg: #F9D682;
+$darkerborder: #9b8461;
+$bodybg: linear-gradient($yellowbg, $bordercolor);
+$fontblack:black;
+$detailpagefont: #393022;
+$cardborder: rgba(0, 0, 0, 0.125);
+$globalborder: 2px solid $darkerborder;
+$shadowcolor : black;
+$bootblue: #0b5ed7;
+$textshadow: -1px -1px 0 $shadowcolor, 1px -1px 0 $shadowcolor, -1px 1px 0 $shadowcolor, 1px 1px 0 $shadowcolor;
