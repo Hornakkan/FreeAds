@@ -44,6 +44,8 @@ What I also included :
 3. Unit-test for quality assurance of your own code Laravel Testing
 4. Deploy your website on a true server such as OVH VPS
 5. Own design and logo
+6. Social media and email share
+7. Send an email to an ad's owner
 
 Index Page
 <img src='https://lh3.googleusercontent.com/pw/AM-JKLVAmo2tzXb-MORsvHfLT1IxrXqxzk4e0tkUtljmgftXT7X2B4cae8LdVvY5K8GAji8vjM1nrXVrvAHNT7rrWd_DcsfU2vIPNKmdVJ_vaMTf7qe_ET4hxlya1YOYV7BzBjk9iqH3VV2FDt3JAFbje5fr=w1919-h931-no?authuser=0'>
