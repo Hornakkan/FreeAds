@@ -1,7 +1,8 @@
-Project FreeAds for Epitech school.
+Project "FreeAds" for Epitech school.
 
 Main goal : Create your own free-publishing ads website.
 Language: Laravel & PHP
+My project's name : StarAds
 
 We had to follow these steps : 
 
@@ -43,6 +44,18 @@ What I also included :
 3. Unit-test for quality assurance of your own code Laravel Testing
 4. Deploy your website on a true server such as OVH VPS
 5. Own design and logo
+
+Index Page
+<img src='https://lh3.googleusercontent.com/pw/AM-JKLVAmo2tzXb-MORsvHfLT1IxrXqxzk4e0tkUtljmgftXT7X2B4cae8LdVvY5K8GAji8vjM1nrXVrvAHNT7rrWd_DcsfU2vIPNKmdVJ_vaMTf7qe_ET4hxlya1YOYV7BzBjk9iqH3VV2FDt3JAFbje5fr=w1919-h931-no?authuser=0'>
+
+View ad's details
+<img src='https://lh3.googleusercontent.com/pw/AM-JKLUrLiCG7OsDLSyfHkFc-k3ogYIg6YQaDQvIfiiC9uKgG0qTBv7oQdMl9N_klJGVKwoAReDrCw4e_uhAuIpO4ib3I1OgRWDR0x7TA3oVB4I2H8vWlvQPr1BH8SW_p2k07havQAA1-JM-2F1bW7nNeubp=w1904-h930-no?authuser=0'>
+
+Edit ad
+<img src='https://lh3.googleusercontent.com/pw/AM-JKLWwStdPR2zkFa9QCE_9j0Fs016GIsqen2JO9EHPh1RkchhJoxv2Jz1AaM7X1v0-YKV-qggOAM9Czos7VP0GyXATmr75s7EwSOwgVvoUNlrBzpgQ8mevaxwNHyv5gxdll-RmdMIOvAC_GS43jzvRSdfA=w1900-h933-no?authuser=0'>
+
+Delete user
+<img src='https://lh3.googleusercontent.com/pw/AM-JKLWmJLnXu1lGLgzEt9X0dNkKWuGTE9yCZcpzHduB7-gmiYVhQpABmF_N9Zw_yRcwSguHXH3GNHexVWoKo7oJ2LE3it5r577NBm8iMozcZwtoRGpGn6nH_-9pd3uY7nHNVqSnRIbrHNDrS1FQAr2Nbzqz=w1911-h928-no?authuser=0'>
 
 
 
