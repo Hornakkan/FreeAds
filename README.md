@@ -41,9 +41,9 @@ STEP 3 - FILTER SYSTEM AND SEARCH BAR
 What I also included : 
 1. Optimize SEO
 2. Responsive design
-3. Unit-test for quality assurance of your own code Laravel Testing
-4. Deploy your website on a true server such as OVH VPS
-5. Own design and logo
+3. Unit-test for quality assurance of my own code with Laravel Testing
+4. Deploy my website on a true server such as OVH VPS or Heroku
+5. Very own design and logo
 6. Social media and email share
 7. Send an email to an ad's owner
 8. Delete an ad's images from the server when the ad's is deleted or its images are changed
