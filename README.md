@@ -1,4 +1,4 @@
-Project "FreeAds" for Epitech school.
+<b>Project "FreeAds" for Epitech school: Coding Academy 2022.</b>
 
 Main goal : Create your own free-publishing ads website.
 Language: Laravel & PHP
